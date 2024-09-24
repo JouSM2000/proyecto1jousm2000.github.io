@@ -2444,6 +2444,7 @@ footer{
         /*font-size: 2.5vh;*/
         /*font-size: 2.25vh;*/
         text-align: center;
+        font-size: 1.05rem;
     }
     .botones-navegacion:hover{
         background-color: #6b85bb;
