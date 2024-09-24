@@ -2628,14 +2628,14 @@ footer{
 
         text-align: center;
         /*font-size: 2.5vh;*/
-        font-size: 1rem;
+        font-size: 1.1rem;
         font-weight: bold;
     }
     .texto-tipos{
         font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
         text-align: justify;
         /*font-size: 2.1vh;*/
-        font-size: 0.85rem;
+        font-size: 0.95rem;
     }
     .leer-mas{
         color: black;
