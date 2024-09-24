@@ -2483,9 +2483,12 @@ footer{
     .i{
         height: 150px;
         width: 100%;
-        margin: 1.5vh 0;
+        margin: 15px 0;
     
         background-color: #cacaca;
+    }
+    .i2{
+        margin: 0 0;
     }
     .tradingview-widget-container{
         background-color: #333a56;
