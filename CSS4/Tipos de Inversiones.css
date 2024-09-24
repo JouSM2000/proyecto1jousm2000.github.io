@@ -2594,18 +2594,18 @@ footer{
     }      
     .titulo1{
         /*font-size: 3.9357vh;*/
-        font-size: 1.75rem;
+        font-size: 1.85rem;
         font-weight: 500;
-        color: red;
+        color: blue;
     }         
     .titulo2{
         /*font-size: 3vh;*/
-        font-size: 1.31rem;
+        font-size: 1.4rem;
         font-weight: 500;
     }
     .texto-articulo{
         /*font-size: 2.2vh;*/
-        font-size: 0.99rem;
+        font-size: 1.1rem;
     }
     #tabla-tipos{
         width: 100%;
