@@ -2460,20 +2460,20 @@ footer{
     .pb1{
         padding-left: 3vh;
         padding-right: 3vh;
-        padding-left: 20px;
-        padding-right: 20px;
+        padding-left: 15px;
+        padding-right: 15px;
     }
     .pb2{
         padding-left: 3vh;
         padding-right: 3vh;
-        padding-left: 20px;
-        padding-right: 20px;
+        padding-left: 15px;
+        padding-right: 15px;
     }
     .pb3{
         padding-left: 3vh;
         padding-right: 3vh;
-        padding-left: 20px;
-        padding-right: 20px;
+        padding-left: 15px;
+        padding-right: 15px;
     }
     .p-a{    
         height: 130px;
@@ -2589,7 +2589,7 @@ footer{
         height: auto;
         width: 100%;
     
-        padding: 20px;
+        padding: 15px;
         margin: 0px;
     }
     article{
