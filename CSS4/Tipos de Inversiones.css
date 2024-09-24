@@ -2458,14 +2458,20 @@ footer{
     .pb1{
         padding-left: 3vh;
         padding-right: 3vh;
+        padding-left: 20px;
+        padding-right: 20px;
     }
     .pb2{
         padding-left: 3vh;
         padding-right: 3vh;
+        padding-left: 20px;
+        padding-right: 20px;
     }
     .pb3{
         padding-left: 3vh;
         padding-right: 3vh;
+        padding-left: 20px;
+        padding-right: 20px;
     }
     .p-a{    
         height: 130px;
