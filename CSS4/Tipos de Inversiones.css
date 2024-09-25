@@ -2444,7 +2444,7 @@ footer{
         /*font-size: 2.5vh;*/
         /*font-size: 2.25vh;*/
         text-align: center;
-        font-size: 1.05rem;
+        font-size: 1.025rem;
     }
     .botones-navegacion:hover{
         background-color: #6b85bb;
@@ -2647,7 +2647,7 @@ footer{
         font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
         text-align: justify;
         /*font-size: 2.1vh;*/
-        font-size: 0.95rem;
+        font-size: 1rem;
     }
     .leer-mas{
         color: black;
