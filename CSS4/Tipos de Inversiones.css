@@ -2589,7 +2589,6 @@ footer{
     
     section{
         background-color:  #cacaca;
-        background-color: yellow;
         height: auto;
         width: 100%;
     
@@ -2668,6 +2667,7 @@ footer{
         padding: 20px 10px;
     
         background-color: #171a27;
+        background-color: yellow;
     }
     #lista-copy{
         color: #F7F5E6 ;
