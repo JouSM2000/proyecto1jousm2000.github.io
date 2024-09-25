@@ -2477,19 +2477,20 @@ footer{
         padding-left: 15px;
         padding-right: 15px;
     }
-    .p-a{    
-        height: 130px;
-        width: 100%;
-    }
     .i{
         height: 150px;
         width: 100%;
-        margin: 15px 0;
     
         background-color: #cacaca;
     }
-    .i2{
-        margin: 0 0;
+    .i1{
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+    .i3{
+        margin-top: 10px;
+        margin-bottom: 12px;
+
     }
     .tradingview-widget-container{
         background-color: #333a56;
