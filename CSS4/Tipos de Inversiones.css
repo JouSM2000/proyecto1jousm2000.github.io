@@ -2366,6 +2366,7 @@ footer{
     .botones-ingreso{
         height: 35px;
         width: 25vh;
+        width: 20vh;
         background-color: #52658F;
         margin-bottom: 13.33333333px;
         border: solid 1px  #F7F5E6;
